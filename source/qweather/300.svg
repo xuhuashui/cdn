@@ -7,19 +7,16 @@
 </path>
 <defs>
 <linearGradient id="linear_fill_Au4Q-Z1wa20QoefeGwxnL" x1="4.500001907348633" y1="13.5" x2="12.500001907348633" y2="13.5" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#AAF736"  />
-<stop offset="0.5278" stop-color="#44F9FC" stop-opacity="0.59" />
-<stop offset="1" stop-color="#FC44D5" stop-opacity="0.59" />
+<stop offset="0" stop-color="#FFBA44"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 <linearGradient id="linear_fill_18CCJDis8GEXljajc6H6I" x1="1.0000019073486328" y1="8" x2="16.000001907348633" y2="8" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#AAF736"  />
-<stop offset="0.5278" stop-color="#44F9FC" stop-opacity="0.59" />
-<stop offset="1" stop-color="#FC44D5" stop-opacity="0.59" />
+<stop offset="0" stop-color="#FFBA44"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 <linearGradient id="linear_fill_sLP7SPN9wcmH40Egj8LMc" x1="0.0000019073486328125" y1="2.785003662109375" x2="8.670000076293945" y2="2.785003662109375" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#AAF736"  />
-<stop offset="0.5278" stop-color="#44F9FC" stop-opacity="0.59" />
-<stop offset="1" stop-color="#FC44D5" stop-opacity="0.59" />
+<stop offset="0" stop-color="#FFBA44"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 </defs>
 </svg>

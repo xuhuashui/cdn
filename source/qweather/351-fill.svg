@@ -7,16 +7,16 @@
 </path>
 <defs>
 <linearGradient id="linear_fill_vInHzAns1Hfxgl1kFOr1A" x1="3" y1="14" x2="12" y2="14" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#B5F7EC"  />
-<stop offset="1" stop-color="#FC5162" stop-opacity="0" />
+<stop offset="0" stop-color="#FFD47F"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 <linearGradient id="linear_fill_COiddeB8zXcRMx4NY0Qy7" x1="0" y1="8" x2="15" y2="8" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#B5F7EC"  />
-<stop offset="1" stop-color="#FC5162" stop-opacity="0" />
+<stop offset="0" stop-color="#FFD47F"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 <linearGradient id="linear_fill_55bdsomIfSE0hnxFr5LVr" x1="8.906005859375" y1="3.04998779296875" x2="15.756006240844727" y2="3.04998779296875" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#B5F7EC"  />
-<stop offset="1" stop-color="#FC5162" stop-opacity="0" />
+<stop offset="0" stop-color="#FFD47F"  />
+<stop offset="1" stop-color="#5CC1EB"  />
 </linearGradient>
 </defs>
 </svg>
