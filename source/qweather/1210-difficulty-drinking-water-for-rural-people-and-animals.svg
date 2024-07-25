@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" fill="none">
+<path     fill="#000000" fill-opacity="0" d="M0 16L16 16L16 0L0 0L0 16Z">
+</path>
+<path d="M2.5 0.5C2.77614 0.5 3 0.723858 3 1L3 2.5L7 2.5L7 2L6 2C5.72386 2 5.5 1.77614 5.5 1.5C5.5 1.22386 5.72386 1 6 1L9 1C9.27614 1 9.5 1.22386 9.5 1.5C9.5 1.77614 9.27614 2 9 2L8 2L8 2.5L12 2.5L12 1C12 0.723858 12.2239 0.5 12.5 0.5C12.7761 0.5 13 0.723858 13 1L13 2.5L13.25 2.5C13.9404 2.5 14.5 3.05964 14.5 3.75C14.5 3.88807 14.6119 4 14.75 4L15.5 4C15.7761 4 16 4.22386 16 4.5C16 4.77614 15.7761 5 15.5 5L14.75 5C14.0596 5 13.5 4.44036 13.5 3.75C13.5 3.61193 13.3881 3.5 13.25 3.5L13 3.5L13 11L15 11L15 16L0 16L0 11L2 11L2 3.5L0.5 3.5C0.223858 3.5 0 3.27614 0 3C0 2.72386 0.223858 2.5 0.5 2.5L2 2.5L2 1C2 0.723858 2.22386 0.5 2.5 0.5ZM3 11L12 11L12 3.5L8 3.5L8 5L11 5L9.44444 10L5.55556 10L4 5L7 5L7 3.5L3 3.5L3 11ZM7.5 9C8.05556 9 8.5 8.55556 8.5 8C8.5 7.36111 7.5 6 7.5 6C7.5 6 6.5 7.33333 6.5 8C6.5 8.55556 6.94444 9 7.5 9Z"  style="mix-blend-mode:normal" fill="url(#linear_fill_hVM6w730ieNDR8zevbwnq)" >
+</path>
+<defs>
+<linearGradient id="linear_fill_hVM6w730ieNDR8zevbwnq" x1="0" y1="8.25" x2="16" y2="8.25" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#36F7BD"  />
+<stop offset="1" stop-color="#FA1E6F" stop-opacity="0.88" />
+</linearGradient>
+</defs>
+</svg>
